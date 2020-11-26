@@ -6,6 +6,7 @@ from guietta import _, Gui, Quit
 # pip install PyQt5
 
 # https://guietta.readthedocs.io/en/stable/tutorial.html
+# https://guietta.readthedocs.io/en/stable/reference.html#qt-symbols-in-guietta
 
 gui = Gui(
 
